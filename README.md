@@ -33,7 +33,7 @@ It was well known that women are underrepresented in tech and engineering roles.
 ![alt text](2020_df.png "2020 Job Satisfaction Dataframe")
 
 ## How to Interact with the Project
-After installing all the relevant packages, simply run *stack_overflow_gender_eda.ipynb*
+Seeing as the size of the datafiles are incredibly large (uploading them here would exceed the reccomended github repository size), please download the data from the link under "Licensing, Authors, Acknowledgement' to your local machine instead. After installing all the relevant packages, simply run *stack_overflow_gender_eda.ipynb*
 
 ## Licensing, Authors, Acknowledgements
 Modified code for the job satisfaction dataframes from [here](https://github.com/udacity/DSND_Term2/blob/master/lessons/CRISP_DM/How%20To%20Break%20Into%20the%20Field%20-%20Solution%20.ipynb).
