@@ -11,7 +11,7 @@ It was well known that women are underrepresented in tech and engineering roles.
 
 * Women still consist of less than 10% of the Stack Overflow Developer Survey respondents. 
 * Though the % of females have incrementally increased since 2014 there was a sudden decline from 2020 to 2021.
-* The median midpoint salary in 2016 was lower than that of men in both Western Europe and North America.
+* The female mean midpoint salary in 2016 was lower than that of men in both Western Europe and North America.
 * In these regions, there was a group of male outliars that significant outearned the others - an equivalent group was not observed among the female respondents. 
 * The majority of both male and females reported being either very satified or satisfied with their jobs though both groups observed generally reported lower levels of satisfaction from 2016 to 2020. 
 
